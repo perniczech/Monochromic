@@ -345,7 +345,7 @@ h1, h2, h3 {
   display: none
 }
 #loginPage .padded-left.padded-right.padded-bottom-page {
-  margin-top: 50px
+  margin-top: 500px
 }
 
 /*Hide "manual" and "forgot" buttons}*/
@@ -355,7 +355,7 @@ h1, h2, h3 {
 
 /*Login background*/
 #loginPage {
-  background: url(https://i.imgur.com/9vL4iNf.png) !important; 
+  background: url(https://i.redd.it/lfndtoirttvx.jpg) !important; 
   background-size: cover !important;
 }
 
