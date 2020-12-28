@@ -1,5 +1,13 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap'); body, h1, h2, h3, h4 {
-  font-family: 'Roboto', sans-serif;
+@import url('https://fonts.googleapis.com/css?family=Karla:400,600,700');
+body {
+    font-family: 'Karla', sans-serif;
+}
+h1, h2, h3 {
+   font-family: 'Karla', sans-serif; text-transform: uppercase;
+   color: rgba(255, 255, 255, 0.87) !important;
+}
+h2, h3 {
+   letter-spacing: .3px;
 }
 
 :root {--rounding: 0px;}
