@@ -1,12 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Quicksand:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Quicksand:300,400,500,600,700&display=swap');
 body {
     font-family: 'Quicksand', sans-serif;
 }
 h1, h2, h3 {
    font-family: 'Quicksand', sans-serif; text-transform: uppercase;
-}
-h2, h3 {
-   letter-spacing: .3px;
 }
 
 :root {--rounding: 0px;}
