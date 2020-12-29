@@ -438,12 +438,12 @@ h1, h2, h3 {
 }
 
 div[data-role="controlgroup"] a[data-role="button"]:first-child {
-	border-bottom-left-radius: var(--rounding);
-	border-top-left-radius: var(--rounding);
+	border-bottom-left-radius: var(--squared);
+	border-top-left-radius: var(--squared);
 }
 div[data-role="controlgroup"] a[data-role="button"]:last-child {
-	border-bottom-right-radius: var(--rounding);
-	border-top-right-radius: var(--rounding);
+	border-bottom-right-radius: var(--squared);
+	border-top-right-radius: var(--squared);
 }
 
 /*Homepage modifications, transparent footerplayer and fixed sectiontitles*/
