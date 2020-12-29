@@ -371,17 +371,7 @@ h1, h2, h3 {
 }
 
 /*Rounded corners on pretty much everything*/
-.formDialogHeader {
-  border-top-left-radius: var(--rounding);
-  border-top-right-radius: var(--rounding);
-}
-.formDialogFooter {
-  border-bottom-left-radius: var(--rounding);
-  border-bottom-right-radius: var(--rounding);
-}
-.cardOverlayContainer {
-	border-radius: var(--rounding) !important;
-}
+
 .toast,
 .paperList,
 .cardContent,
