@@ -89,9 +89,3 @@ progress::-webkit-progress-value {
   background: rgba(var(--accent));
 }
 
-::-webkit-scrollbar-thumb {
-  background: rgba(var(--accent),0.8) !important;
-}
-* {
-  scrollbar-color: rgba(var(--accent),0.8) #0000 !important;
-}
