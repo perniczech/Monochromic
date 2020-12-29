@@ -383,6 +383,7 @@ h1, h2, h3 {
 .cardOverlayContainer {
 	border-radius: var(--squared) !important;
 }
+.paper-icon-button-light,
 .cardOverlayButton-hover,
 .cardOverlayButtonIcon {
   border-radius: var(--rounding) !important;
@@ -406,7 +407,6 @@ h1, h2, h3 {
 .listItemImageButton,
 .listItemButton,
 .headerButton,
-.paper-icon-button-light,
 .innerCardFooter,
 .blurhash-canvas,
 .dialog,
