@@ -506,13 +506,13 @@ div[data-role="controlgroup"] a[data-role="button"]:last-child {
 
 @media all and (min-width: 70em){
   .cardOverlayFab-primary {
-    background-color: #00000000;
+    background-color: rgba(0,0,0,.7);
   }
   .cardOverlayButtonIcon {
     background-color: #000000 !important;
   }
   .cardOverlayContainer {
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: rgba(0, 0, 0, 0.5);
   }
 }
 @media all and (max-width: 70em){
