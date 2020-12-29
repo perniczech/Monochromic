@@ -184,7 +184,7 @@ h1, h2, h3 {
     background-color: rgba(0, 0, 0, 0) !important;
   }
   .itemBackdrop {
-    height: 23vh !important; 
+    height: 18vh !important; 
     background-image: none !important;
   }
 }
@@ -207,7 +207,7 @@ h1, h2, h3 {
     margin-top: 5em;
   }
   .itemBackdrop {
-    filter: blur(45px) saturate(200%) contrast(160%) brightness(25%);
+    filter: blur(25px) saturate(150%) contrast(100%) brightness(25%);
   }
 }
 
