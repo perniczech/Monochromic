@@ -504,25 +504,7 @@ div[data-role="controlgroup"] a[data-role="button"]:last-child {
   top: 0.3em;
 }
 
-@media all and (min-width: 70em){
-  .cardOverlayFab-primary {
-    background-color: rgba(0,0,0,.7);
-  }
-  .cardOverlayButtonIcon {
-    background-color: #000000 !important;
-  }
-  .cardOverlayContainer {
-    background-color: rgba(0, 0, 0, 0.5);
-  }
-}
-@media all and (max-width: 70em){
-  .cardOverlayButtonIcon {
-    background-color: rgba(0, 0, 0, 0.7) !important;
-  }
-  .cardOverlayButton {
-    padding: 0.3em;
-  }
-}
+
 
 /*Hover background for buttons*/
 .button-flat:hover {
