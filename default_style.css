@@ -373,15 +373,18 @@ h1, h2, h3 {
 
 /*Rounded corners on pretty much everything*/
 .formDialogHeader {
-  border-top-left-radius: var(--rounding);
-  border-top-right-radius: var(--rounding);
+  border-top-left-radius: var(--squared);
+  border-top-right-radius: var(--squared);
 }
 .formDialogFooter {
-  border-bottom-left-radius: var(--rounding);
-  border-bottom-right-radius: var(--rounding);
+  border-bottom-left-radius: var(--squared);
+  border-bottom-right-radius: var(--squared);
 }
 .cardOverlayContainer {
-	border-radius: var(--rounding) !important;
+	border-radius: var(--squared) !important;
+}
+.cardOverlayButtonIcon {
+  border-radius: var(--rounding) !important;
 }
 .toast,
 .paperList,
@@ -420,8 +423,7 @@ h1, h2, h3 {
 .chapterThumb,
 .emby-input, 
 .emby-textarea, 
-.emby-select-withcolor,
-.cardOverlayButtonIcon {
+.emby-select-withcolor {
   border-radius: var(--squared) !important;
 }
 .osdPoster img {
