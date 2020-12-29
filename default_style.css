@@ -642,9 +642,9 @@ div[data-role=controlgroup] a[data-role=button]+a[data-role=button] {
   background: #101010 !important;
 }
 
-.paper-icon-button-light:hover,
+/*.paper-icon-button-light:hover,
 .raised.homeLibraryButton:hover,
-/*.button-flat:hover,*/
+.button-flat:hover,
 .playstatebutton-icon-played,
 .ratingbutton-icon-withrating,
 .paper-icon-button-light:hover:not(:disabled),
@@ -656,7 +656,7 @@ div[data-role=controlgroup] a[data-role=button]+a[data-role=button] {
 .button-link{
   color: rgba(120, 120, 120, 0.6) !important;
 }
-
+*/
 #itemDetailPage .button-link {color: inherit !important;}
 
 .listItemIcon,
