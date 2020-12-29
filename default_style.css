@@ -373,13 +373,10 @@ h1, h2, h3 {
 /*Rounded corners on pretty much everything*/
 
 .toast,
-.paperList,
-.cardContent,
 .sessionNowPlayingInnerContent, 
 .listItem:hover, 
 .cardImage,
 .fab,
-.raised,
 .multiSelectCheckboxOutline,
 .itemSelectionPanel,
 .cardContent-button, 
@@ -395,7 +392,6 @@ h1, h2, h3 {
 .paper-icon-button-light,
 .innerCardFooter,
 .blurhash-canvas,
-.dialog,
 .countIndicator,
 .playedIndicator,
 .listItemIcon,
