@@ -5,7 +5,7 @@ h1, h2, h3 {
   font-family: 'Quicksand', sans-serif; text-transform: uppercase;
 }
 
-:root {--rounding: 0px;}
+:root {--rounding: 100%;}
 
 /*Narrow margins, theme main page*/
 .cardBox-bottompadded {
