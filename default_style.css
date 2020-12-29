@@ -644,7 +644,7 @@ div[data-role=controlgroup] a[data-role=button]+a[data-role=button] {
 
 .paper-icon-button-light:hover,
 .raised.homeLibraryButton:hover,
-.button-flat:hover,
+/*.button-flat:hover,*/
 .playstatebutton-icon-played,
 .ratingbutton-icon-withrating,
 .paper-icon-button-light:hover:not(:disabled),
