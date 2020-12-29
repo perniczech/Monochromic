@@ -425,7 +425,7 @@ h1, h2, h3 {
   border-radius: var(--squared) !important;
 }
 .osdPoster img {
-  border-radius: var(--rounding); border: none;
+  border-radius: var(--squared); border: none;
 }
 .mdl-slider::-moz-range-thumb {
   border-radius: var(--rounding);
