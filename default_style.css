@@ -477,25 +477,17 @@ div[data-role="controlgroup"] a[data-role="button"]:last-child {
 }
 
 /*Modified progress bar, play and item menu buttons*/
-.innerCardFooter.fullInnerCardFooter.innerCardFooterClear {
-  border-radius: 0px !important; 
-  background: rgba(0,0,0,0.7);
-}
-
 .itemProgressBar {
-  height: 2000em;
-  background: #0000;
-}
-.playbackProgress>div {
-  background-color: rgba(255,255,255,0.75);
-}
-.transcodingProgress>div, .itemProgressBarForeground {
-  background-color: rgba(255,255,255,0.3);
+  height: 6px;
+  background: rgba(0,0,0,.5);
 }
 
-.innerCardFooter.fullInnerCardFooter.innerCardFooterClear {
-  border-radius: 0px !important; 
-  background: rgba(0,0,0,0);
+.playbackProgress>div, .itemProgressBarForeground {
+    background-color: rgba(var(--accent), 0.8) !important;
+}
+
+.transcodingProgress>div {
+    background-color: rgba(var(--accent), 0.35) !important;
 }
 
 /*Accommodate mobile and set positions, I think*/
@@ -507,9 +499,9 @@ div[data-role="controlgroup"] a[data-role="button"]:last-child {
 
 
 /*Hover background for buttons*/
-.button-flat:hover {
+/*.button-flat:hover {
 	background: rgba(0,0,0,0.4);
-}
+}*/
 .button-flat {
   padding: .5em !important;
   margin: .2em !important;
@@ -642,7 +634,7 @@ div[data-role=controlgroup] a[data-role=button]+a[data-role=button] {
   background: #101010 !important;
 }
 
-/*.paper-icon-button-light:hover,
+.paper-icon-button-light:hover,
 .raised.homeLibraryButton:hover,
 .button-flat:hover,
 .playstatebutton-icon-played,
@@ -654,9 +646,9 @@ div[data-role=controlgroup] a[data-role=button]+a[data-role=button] {
 .textareaLabelFocused,
 .buttonActive,
 .button-link{
-  color: rgba(120, 120, 120, 0.6) !important;
+  color: rgba(120, 120, 120, 0.8) !important;
 }
-*/
+
 #itemDetailPage .button-link {color: inherit !important;}
 
 .listItemIcon,
