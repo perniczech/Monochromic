@@ -509,10 +509,10 @@ div[data-role="controlgroup"] a[data-role="button"]:last-child {
     background-color: #00000000;
   }
   .cardOverlayButtonIcon {
-    background-color: #00000000 !important;
+    background-color: #000000 !important;
   }
   .cardOverlayContainer {
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(0, 0, 0, 0.6);
   }
 }
 @media all and (max-width: 70em){
