@@ -403,19 +403,10 @@ h1, h2, h3 {
 .button-flat,
 .visualCardBox,
 .checkboxOutline,
-.emby-select-withcolor,
-.chapterThumbTextContainer,
-.chapterThumbContainer,
-.chapterThumb,
-.emby-input, 
-.emby-textarea, 
-.emby-select-withcolor,
 .cardOverlayButtonIcon {
   border-radius: var(--rounding) !important;
 }
-.osdPoster img {
-  border-radius: var(--rounding); border: none;
-}
+
 .mdl-slider::-moz-range-thumb {
   border-radius: var(--rounding);
 }
