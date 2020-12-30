@@ -389,7 +389,8 @@ h1, h2, h3 {
 .headerButton,
 .paper-icon-button-light,
 .cardOverlayButton-hover,
-.cardOverlayButtonIcon {
+.cardOverlayButtonIcon,
+.listItemImageButton, {
   border-radius: var(--rounding) !important;
 }
 .toast,
@@ -408,7 +409,6 @@ h1, h2, h3 {
 .cardImageContainer,
 .cardPadder,
 .listItemImage,
-.listItemImageButton,
 .listItemButton,
 .innerCardFooter,
 .blurhash-canvas,
