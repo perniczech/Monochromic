@@ -390,13 +390,13 @@ h1, h2, h3 {
 .paper-icon-button-light,
 .cardOverlayButton-hover,
 .cardOverlayButtonIcon,
-.cardImageContainer,
 .listItemImageButton, {
   border-radius: var(--rounding) !important;
 }
 .toast,
 .paperList,
 .cardContent,
+.cardImageContainer,
 .sessionNowPlayingInnerContent, 
 .listItem:hover, 
 .cardImage,
