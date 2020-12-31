@@ -161,10 +161,10 @@ h1, h2, h3 {
 #castContent .cardOverlayButton {margin: auto;}
 
 /*Tweak series/movie/album title screen*/
-/*.detailImageContainer .card {
+.detailImageContainer .card {
   position:fixed;
 }
-*/
+
 .mainDetailButtons {
 	font-size: 120%;
 }
