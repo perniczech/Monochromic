@@ -353,7 +353,7 @@ h1, h2, h3 {
   display: none
 }
 #loginPage .padded-left.padded-right.padded-bottom-page {
-  margin-top: 100px
+  margin-top: 20vh
 }
 
 /*Hide "manual" and "forgot" buttons}*/
