@@ -397,6 +397,7 @@ h1, h2, h3 {
 .paper-icon-button-light,
 .cardOverlayButton-hover,
 .cardOverlayButtonIcon,
+.listItemButton,
 .listItemImageButton, {
   border-radius: var(--rounding) !important;
 }
@@ -416,7 +417,6 @@ h1, h2, h3 {
 .itemDetailImage, 
 .cardPadder,
 .listItemImage,
-.listItemButton,
 .innerCardFooter,
 .blurhash-canvas,
 .dialog,
