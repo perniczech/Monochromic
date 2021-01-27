@@ -363,7 +363,7 @@ h2 {
 
 /*Login background*/
 #loginPage {
-  background: url(http://localhost:8096/web/themes/purplehaze/bg.jpg) !important; 
+  background: url(https://jellyfin.ludvoracek.cz/web/themes/purplehaze/bg.jpg) !important; 
   background-size: cover !important;
 }
 
