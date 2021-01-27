@@ -363,7 +363,7 @@ h2 {
 
 /*Login background*/
 #loginPage {
-  background: url(https://i.imgur.com/HKfEFKT.jpg) !important; 
+  background: url(http://localhost:8096/web/themes/purplehaze/bg.jpg) !important; 
   background-size: cover !important;
 }
 
