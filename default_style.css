@@ -361,6 +361,11 @@ h2 {
   display: none
 }
 
+/* Login Page Logo*/
+.imgLogoIcon {
+	content: url(https://i.imgur.com/YX5Q5kR.png) !important;
+}
+
 /*Login background*/
 #loginPage {
   background: url(https://jellyfin.ludvoracek.cz/web/themes/purplehaze/bg.jpg) !important; 
