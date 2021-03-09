@@ -759,7 +759,7 @@ div[data-role=controlgroup] a[data-role=button]+a[data-role=button] {
 #itemDetailPage .button-link {color: inherit !important;}
 
 .listItemIcon,
-.cardImage,
+/*.cardImage,*/
 .blurhashed {
    background-color: #0000 !important;
 }
