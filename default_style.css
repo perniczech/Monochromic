@@ -423,9 +423,9 @@ video:cue {
 #loginPage h1 {
   display: none
 }
-#loginPage .padded-left.padded-right.padded-bottom-page {
+/*#loginPage .padded-left.padded-right.padded-bottom-page {
   margin-top: 10vh
-}
+}*/
 
 /*Hide "manual" and "forgot" buttons}*/
 #loginPage .raised.cancel.block.btnForgotPassword.emby-button {
