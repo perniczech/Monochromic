@@ -569,7 +569,7 @@ div[data-role="controlgroup"] a[data-role="button"]:last-child {
   border-radius: 50px !important;
 }
 
-/*Modified progress bar, play and item menu buttons*/
+/*Modified progress bar, play and item menu buttons
 .itemProgressBar {
   height: 5px;
   background: rgba(0,0,0,.5);
@@ -582,7 +582,7 @@ div[data-role="controlgroup"] a[data-role="button"]:last-child {
 .transcodingProgress>div {
     background-color: rgba(var(--accent), 0.35) !important;
 }
-
+*/
 /*Accommodate mobile and set positions, I think*/
 .cardIndicators {
   right: 0.3em; 
@@ -701,7 +701,7 @@ div[data-role=controlgroup] a[data-role=button]+a[data-role=button] {
 }
 
 
-/*Theme media player*/
+/*Theme media player
 .mdl-slider-background-lower {
   background-color: rgb(255, 255, 255);
 }
@@ -720,7 +720,7 @@ div[data-role=controlgroup] a[data-role=button]+a[data-role=button] {
 .osdHeader {
   background: rgba(0,0,0,.7) !important;
 }
-
+*/
 /*Theme buttons and cards*/
 .navMenuOption-selected,
 .selectionCommandsPanel {
