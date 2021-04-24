@@ -101,7 +101,7 @@ video:cue {
 
 /*Blur backdrops, feel free to edit the intensity of the blur/saturation/dimming*/
 .backdropImage {
-  filter: blur(70px) saturate(125%) contrast(100%) brightness(22%);
+  filter: blur(75px) saturate(125%) contrast(100%) brightness(30%);
 }
 .backgroundContainer.withBackdrop {
   background-color: rgba(0,0,0,0);
